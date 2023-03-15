@@ -1,2 +1,2 @@
-# flashcards-with-tailwindui
+# flashcards
 Create simple flashcards for students  
