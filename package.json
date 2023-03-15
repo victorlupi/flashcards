@@ -1,0 +1,18 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/victorlupi/flashcards.git",
+  "author": "victorlupi <victor.lupi@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "next start",
+    "build": "next build",
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
