@@ -1,5 +1,5 @@
 function HomePage() {
-  return <h1>Welcome to my Next.js app!</h1>;
+  return <h1>Um aplicativo de Flashcards!</h1>;
 }
 
 export default HomePage;
